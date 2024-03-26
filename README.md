@@ -1,1 +1,1 @@
-The Microfrontend Architecture with AWS hosting example
+The Micro-frontend Architecture with AWS hosting example
