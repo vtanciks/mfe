@@ -9,6 +9,8 @@ const generateClassName = createGenerateClassName({
   productionPrefix: "ma",
 });
 
+console.log(generateClassName);
+
 export default () => {
   return (
     <div>
