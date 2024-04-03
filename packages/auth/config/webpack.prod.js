@@ -10,7 +10,7 @@ const prodConfig = {
   output: {
     filename: "[name].[contenthash].js",
     publicPath: "/auth/latest/",
-  }, //
+  },
   plugins: [
     new ModuleFederationPlugin({
       name: "auth",
